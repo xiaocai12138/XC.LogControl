@@ -1,0 +1,9 @@
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\XC.LogControl\bin\Debug\XC.LogControl.dll
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\XC.LogControl\bin\Debug\XC.LogControl.pdb
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\XC.LogControl\obj\Debug\XC.LogControl.csprojAssemblyReference.cache
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\XC.LogControl\obj\Debug\XCLogUC.baml
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\XC.LogControl\obj\Debug\XCLogUC.g.cs
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\XC.LogControl\obj\Debug\XC.LogControl_MarkupCompile.cache
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\XC.LogControl\obj\Debug\XC.LogControl.g.resources
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\XC.LogControl\obj\Debug\XC.LogControl.dll
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\XC.LogControl\obj\Debug\XC.LogControl.pdb

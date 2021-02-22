@@ -1,0 +1,16 @@
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\WpfLogControlApp\bin\Debug\WpfLogControlApp.exe
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\WpfLogControlApp\bin\Debug\WpfLogControlApp.pdb
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\WpfLogControlApp\bin\Debug\XC.LogControl.dll
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\WpfLogControlApp\bin\Debug\XC.LogControl.pdb
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\WpfLogControlApp\obj\Debug\WpfLogControlApp.csprojAssemblyReference.cache
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\WpfLogControlApp\obj\Debug\MainWindow.g.cs
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\WpfLogControlApp\obj\Debug\App.g.cs
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\WpfLogControlApp\obj\Debug\WpfLogControlApp_MarkupCompile.cache
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\WpfLogControlApp\obj\Debug\WpfLogControlApp_MarkupCompile.lref
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\WpfLogControlApp\obj\Debug\MainWindow.baml
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\WpfLogControlApp\obj\Debug\WpfLogControlApp.g.resources
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\WpfLogControlApp\obj\Debug\WpfLogControlApp.Properties.Resources.resources
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\WpfLogControlApp\obj\Debug\WpfLogControlApp.csproj.GenerateResource.cache
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\WpfLogControlApp\obj\Debug\WpfLogControlApp.csproj.CopyComplete
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\WpfLogControlApp\obj\Debug\WpfLogControlApp.exe
+C:\Users\xiaocai\Desktop\Code\OpenSorceCode\日志控件\WpfLogControlApp\WpfLogControlApp\obj\Debug\WpfLogControlApp.pdb

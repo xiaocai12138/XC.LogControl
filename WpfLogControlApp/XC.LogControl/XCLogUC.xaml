@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="XC.LogControl.XCLogUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="345" d:DesignWidth="522">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition   />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition  />
+        </Grid.ColumnDefinitions>
+        <RichTextBox Name="TextBox" IsReadOnly="True" Margin="5" VerticalScrollBarVisibility="Visible" FontFamily="LiSu" FontSize="15">
+            <RichTextBox.ContextMenu>
+                <ContextMenu >
+                    <MenuItem Header="清除" Name="BtnClear" Click="BtnClear_Click" ></MenuItem>
+                    <MenuItem Header="保存" Name="BtnExport" Click="BtnExport_Click"></MenuItem>
+                </ContextMenu>
+            </RichTextBox.ContextMenu>
+        </RichTextBox>
+    </Grid>
+</UserControl>
